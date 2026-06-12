@@ -120,30 +120,6 @@
     "status": "Active"
   },
   {
-    "id": 11,
-    "name": "Star Sports 1 HD",
-    "description": "Star Sports 1 HD brings live cricket, football, kabaddi, tennis, and other major sporting events in high-definition quality.",
-    "logo_url": "https://raw.githubusercontent.com/Mohammedanas927/Live/refs/heads/main/assets/StarSports1HD.jpg",
-    "stream_type": "HLS",
-    "stream_url": "http:\\103.253.18.58:8000\play\a00m",
-    "drm_key_id": "",
-    "drm_key": "",
-    "category": "Sports",
-    "status": "Active"
-  },
-  {
-    "id": 12,
-    "name": "Star Sports 2 HD",
-    "description": "Star Sports 2 HD offers live coverage of international and domestic sports including cricket, football, motorsports, and more in HD.",
-    "logo_url": "https://github.com/Mohammedanas927/Live/blob/main/assets/Starsports2HD.jpg?raw=true",
-    "stream_type": "HLS",
-    "stream_url": "https://tvsen7.aynaott.com/ssport2hd/mono.m3u8",
-    "drm_key_id": "",
-    "drm_key": "",
-    "category": "Sports",
-    "status": "Active"
-  },
-  {
     "id": 13,
     "name": "Mathrubhumi News",
     "description": "Mathrubhumi News is a prominent 24-hour Malayalam-language free-to-air satellite television news channel based in Kerala, India. Launched on January 23, 2013, it is owned and operated by the Mathrubhumi Printing & Publishing Co. Ltd., which also publishes the widely read Mathrubhumi newspaper.",
@@ -153,18 +129,6 @@
     "drm_key_id": "",
     "drm_key": "",
     "category": "News",
-    "status": "Active"
-  },
-  {
-    "id": 14,
-    "name": "Drishiyam 3",
-    "description": "Drishyam 3 is a 2026 Malayalam-language crime drama directed by Jeethu Joseph, starring Mohanlal. It follows a highly anxious Georgekutty as the parents of Varun—consumed by grief and resentment—engineer an elaborate fake marriage and extortion trap to expose his family, prompting one final, emotional cat-and-mouse game. ",
-    "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwyhL6OrDOICFj5FVZgD6AD-5ZdoAlgWjVmh2BhKkoChYtoFNq5w_A42xeCYotXFK2kLff1clyCYjazs2hRC4vL45Fv_2_cziLZrAmw1_RQ&s=10",
-    "stream_type": "MP4",
-    "stream_url": "https://abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk.icu/u1i5o9p3a7s2d6f1g5h9j4k8l3z7x2c6v1b5n9m4q8w3e7r2t6y1u5i9o4.php?file=www.1TamilBlasters.Luxe_Drishyam_3_2026_Malayalam_HQ_PreDVD_720p_x264_HQ_Clean_AAC_1_4GB_mkv&exp=1781248676&sig=2a30ee50f9119f2924fd17ac977a39ec7ef25f1fc6f1ab6db3f78c8c3236007e",
-    "drm_key_id": "",
-    "drm_key": "",
-    "category": "Movies",
     "status": "Active"
   }
 ]
