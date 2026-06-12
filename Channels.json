@@ -130,5 +130,17 @@
     "drm_key": "",
     "category": "News",
     "status": "Active"
-  }
+  },
+  {
+  "id": 15,
+  "name": "Star Sports 1 Tamil HD",
+  "description": "Live cricket, football, and major sporting events in Tamil with ClearKey DRM protection.",
+  "logo_url": "https://raw.githubusercontent.com/Mohammedanas927/Live/refs/heads/main/assets/StarSports1HD.jpg",
+  "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1781238619~exp=1781260219~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=fdc1094c57301583ac8aeb6ab3af127e6866cdd728035c0f1e794e74a58abf08&Origin=&Referer=&User-Agent=https://t.me/cloudply || @cloudplay&drmScheme=clearkey&drmLicense=https://keys.cloudplay.qzz.io/pl/plkey.php?id=1124",
+  "stream_type": "MPEG-DASH",
+  "drm_key_id": "",
+  "drm_key": "",
+  "category": "Sports"
+  "status": "Active"
+ }
 ]
