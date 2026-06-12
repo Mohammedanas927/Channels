@@ -154,5 +154,17 @@
     "drm_key": "",
     "category": "News",
     "status": "Active"
+  },
+  {
+    "id": 14,
+    "name": "Drishiyam 3",
+    "description": "Drishyam 3 is a 2026 Malayalam-language crime drama directed by Jeethu Joseph, starring Mohanlal. It follows a highly anxious Georgekutty as the parents of Varun—consumed by grief and resentment—engineer an elaborate fake marriage and extortion trap to expose his family, prompting one final, emotional cat-and-mouse game. ",
+    "logo_url": "http://mohammedanas927.github.io/Images/Mathrubhumi.jpg",
+    "stream_type": "MP4",
+    "stream_url": "https://s22.cdnserver03.xyz/Drishyam_3_2026_HQ_PreDVD_1080p_HD.mp4?stream=1",
+    "drm_key_id": "",
+    "drm_key": "",
+    "category": "Movies",
+    "status": "Active"
   }
 ]
