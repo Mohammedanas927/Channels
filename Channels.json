@@ -123,7 +123,7 @@
     "id": 13,
     "name": "Mathrubhumi News",
     "description": "Mathrubhumi News is a prominent 24-hour Malayalam-language free-to-air satellite television news channel based in Kerala, India. Launched on January 23, 2013, it is owned and operated by the Mathrubhumi Printing & Publishing Co. Ltd., which also publishes the widely read Mathrubhumi newspaper.",
-    "logo_url": "http://mohammedanas927.github.io/Images/Mathrubhumi.jpg",
+    "logo_url": "https://mohammedanas927.github.io/Images/Mathrubhumi.jpg",
     "stream_type": "HLS",
     "stream_url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8?ads.channel=1309&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1781246213~exp=1781267813~acl=!*/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/*!/payload/yupptvott_5_-1_500c82d5065844d3_IN_49.206.119.46_yuppfast_2_channel_174_-1/*~data=yupptvott_5_-1_500c82d5065844d3_IN_49.206.119.46_yuppfast_2_channel_174_-1~hmac=d9e69214438e49276504a9e1e38b6f04ba0e0f1b42b387e5871ea2b07c84ba9b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=MathrubhumiNews&ads.language=MAL&ads.user=0",
     "drm_key_id": "",
